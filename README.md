@@ -21,6 +21,13 @@
 
 ![Название скриншота 1](https://github.com/gribova-anastasia/13-1/blob/7aba302d9c04d38abf291b3173ca950f0a473da6/10.png)
 
+```
 Linux Kernel 2.6.9 < 2.6.25 (RHEL 4) - utrace and ptrace Local Denial of Service (2) - Linux dos Exploit (exploit-db.com)
+```
+```
 Samba 3.4.16/3.5.14/3.6.4 - SetInformationPolicy AuditEventsInfo Heap Overflow (Metasploit) - Linux remote Exploit (exploit-db.com)
+```
+```
 Samba 3.5.0 < 4.4.14/4.5.10/4.6.4 - 'is_known_pipename()' Arbitrary Module Load (Metasploit) - Linux remote Exploit (exploit-db.com)
+```
+
